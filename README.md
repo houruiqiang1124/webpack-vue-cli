@@ -94,3 +94,8 @@ webpack.config.js
             inject: true
         })
     ]
+
+## 所用文档链接
+[深入浅出 Webpack](http://www.xbhub.com/wiki/webpack/)
+
+[webpack中文文档](https://www.webpackjs.com/concepts/)
